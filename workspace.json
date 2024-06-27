@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "110f4842a8de3bb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "501eecc80f80e113",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cba86a65667ec02c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8306c7753dab872",
+    "type": "split",
+    "children": [
+      {
+        "id": "8932bfc4454bd233",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a210f8a474d61939",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0363f11db0e07810",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f82f656a3c2ddc6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "5abfd4d358874cbf",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "282c64a28fe190b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e4c6be0d45cd5fc",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e6c840e927c47910",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ee8952d5364228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e836171b000049af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94e630479c4840b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68c1de1c5c6b1058",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "67c0e224f390bda1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "63c10f1e5d32eb8d",
+            "type": "leaf",
+            "state": {
+              "type": "mathpad-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "zk-prefixer:Create new unique note": false,
+      "mathpad:Open Mathpad": false,
+      "graph:Open graph view": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-kanban:Create new board": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a210f8a474d61939",
+  "lastOpenFiles": [
+    "00 - notes/Relative Clauses.md",
+    "00 - notes/Emotion.md",
+    "06 - export/Emotion.pdf",
+    "06 - export/Relative Clauses.pdf",
+    "00 - notes/Relative Clauses.html",
+    "00 - notes/Relative Clauses.md",
+    "00 - notes/Relative Clauses.md",
+    "02 - templates/Full note.md",
+    "00 - notes/Relative Clauses.md",
+    "00 - notes/Relative Clause.md",
+    "00 - notes/<% tp.date.now(\"dd MMMM, YYYY\") %>.md",
+    "<% tp.date.now(\"ddd Do MMMM YYYY ",
+    "00 - notes/CE.md",
+    "Untitled.canvas",
+    "2024-06-26.md",
+    "03 - calendar/2024-06-26 Do 30 pushups.md",
+    "06 - export/Test the pdf print.pdf",
+    "00 - notes/Test the pdf print.md",
+    "06 - export/Relative Clause.pdf",
+    "00 - notes/Elden Ring.md",
+    "00 - notes/NIC Teaming.md",
+    "00 - notes/Linux install laravel project.md",
+    "05 - excalidraw",
+    "06 - excalidraw",
+    "06 - export",
+    "04 - assets",
+    "MyNote/Relative-Clauses.md",
+    "MyNote/Culture.md",
+    "MyNote/Deviance.md",
+    "MyNote/Untitled.md",
+    "MyNote/Hello world.md",
+    "myNote/myVault/Welcome.md",
+    "Untitled Kanban.md",
+    "Abc.md",
+    "I hate setec.md",
+    "Linux/Download and Install Package.md",
+    "Linux/Create User SQL.md"
+  ]
+}

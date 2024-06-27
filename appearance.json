@@ -1,0 +1,17 @@
+{
+  "accentColor": "#76ead6",
+  "cssTheme": "Mado Miniflow",
+  "enabledCssSnippets": [
+    "colored-sidebar-items",
+    "cosmos-general-tweaks",
+    "cyanvoxels-general-tweaks",
+    "daily-note-themes",
+    "notebook-backgrounds",
+    "Notebook Backgrounds"
+  ],
+  "interfaceFontFamily": "Cascadia Code",
+  "textFontFamily": "Cascadia Code",
+  "monospaceFontFamily": "Cascadia Code",
+  "translucency": true,
+  "theme": "obsidian"
+}
